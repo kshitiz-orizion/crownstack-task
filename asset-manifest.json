@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crownstack-task/static/css/main.13e7dd41.chunk.css",
-    "main.js": "/crownstack-task/static/js/main.cf03e93b.chunk.js",
-    "main.js.map": "/crownstack-task/static/js/main.cf03e93b.chunk.js.map",
+    "main.js": "/crownstack-task/static/js/main.0235ad78.chunk.js",
+    "main.js.map": "/crownstack-task/static/js/main.0235ad78.chunk.js.map",
     "runtime-main.js": "/crownstack-task/static/js/runtime-main.be4f9974.js",
     "runtime-main.js.map": "/crownstack-task/static/js/runtime-main.be4f9974.js.map",
     "static/js/2.ddb6eeda.chunk.js": "/crownstack-task/static/js/2.ddb6eeda.chunk.js",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.be4f9974.js",
     "static/js/2.ddb6eeda.chunk.js",
     "static/css/main.13e7dd41.chunk.css",
-    "static/js/main.cf03e93b.chunk.js"
+    "static/js/main.0235ad78.chunk.js"
   ]
 }
